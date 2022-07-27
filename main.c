@@ -1,3 +1,5 @@
+// código fonte do problema 2 proposto em pd2 prática, onde realiza-se a inscrição de usuarios em um processo seletivo
+
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
