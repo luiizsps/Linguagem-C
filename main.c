@@ -13,7 +13,7 @@ typedef struct candidatos {
 	struct candidatos *next; 
 }dados;
 
-// struct que armazena o endere�o do primeiro elemento da lista e n�mero de inscri��es
+// struct que armazena o endereço do primeiro elemento da lista e número de inscrições
 typedef struct lista {
 	dados *start;
 	int total;
@@ -35,7 +35,7 @@ void main() {
 		inscricao(&list);
 		list.total++;
 
-		printf("Realizar mais uma inscri��o? ");
+		printf("Realizar mais uma inscrição? ");
 		fgets(curso, 5, stdin);
 		fflush(stdin);
 	}while(curso[0] != 'N' && curso[0] != 'n');
