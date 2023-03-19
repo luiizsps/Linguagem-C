@@ -1,2 +1,2 @@
 # Linguagem-C
-Atividades com linguaguem C em PD2
+Trabalho final apresentado à disciplina de Processamento de Dados II.
