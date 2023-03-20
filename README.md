@@ -1,2 +1,2 @@
 # Linguagem-C
-Trabalho final apresentado à disciplina de Processamento de Dados II.
+Trabalhos em C apresentados à disciplina de Processamento de Dados II.
